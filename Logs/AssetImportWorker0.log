@@ -253,3 +253,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 61.917968 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(57dcd02fd44f1d046b16647995afa860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(57dcd02fd44f1d046b16647995afa860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2218b6983bb32b87abc56ec976ead20') in 0.003502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.202023 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(8368597788ca38b4c9a14b26b057f632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(8368597788ca38b4c9a14b26b057f632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20b0b007d5cad8f4966c30c39c80800') in 0.000915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.065182 seconds.
+  path: Assets/Scenes/Start.unity
+  artifactKey: Guid(167a56e28fcdb974fb8e3587b04116bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start.unity using Guid(167a56e28fcdb974fb8e3587b04116bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a350c38af68de263db8cc8786e33896') in 0.001085 seconds 
